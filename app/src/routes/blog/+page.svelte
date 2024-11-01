@@ -10,12 +10,14 @@
 	$: ({ data: posts } = $q);
 </script>
 
-<section>
-	{#if posts.length}
-		{#each posts as post}
-			<Card {post} />
-		{/each}
-	{:else}
-		<Welcome />
-	{/if}
-</section>
+<main>
+	<section>
+		{#if posts.length}
+			{#each posts as post}
+				<Card {post} />
+			{/each}
+		{:else}
+			<Welcome />
+		{/if}
+	</section>
+</main>
