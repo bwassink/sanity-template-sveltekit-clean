@@ -60,12 +60,12 @@
 	}
 
 	.post .post__content {
-		font-family: var(--font-family-serif);
-		font-weight: 400;
-		font-size: var(--font-size-4);
-		line-height: var(--line-height-5);
-		letter-spacing: -0.02em;
-		margin-top: var(--space-6);
+		/* font-family: var(--font-family-serif); */
+		/* font-weight: 400; */
+		/* font-size: var(--font-size-4); */
+		/* line-height: var(--line-height-5); */
+		/* letter-spacing: -0.02em; */
+		/* margin-top: var(--space-6); */
 	}
 
 	.post .post__content blockquote {
@@ -80,19 +80,19 @@
 	}
 
 	.post .post__title {
-		font-family: var(--font-family-sans);
-		font-size: var(--font-size-7);
-		line-height: var(--line-height-6);
-		margin: var(--space-4) 0;
-		font-weight: 800;
+		/* font-family: var(--font-family-sans); */
+		/* font-size: var(--font-size-7); */
+		/* line-height: var(--line-height-6); */
+		/* margin: var(--space-4) 0; */
+		/* font-weight: 800; */
 	}
 
 	.post .post__excerpt {
-		font-family: var(--font-family-serif);
-		font-size: var(--font-size-5);
-		line-height: var(--line-height-4);
+		/* font-family: var(--font-family-serif); */
+		/* font-size: var(--font-size-5); */
+		/* line-height: var(--line-height-4); */
 		margin-top: 0;
-		font-weight: 400;
+		/* font-weight: 400; */
 	}
 
 	.post .post__date {

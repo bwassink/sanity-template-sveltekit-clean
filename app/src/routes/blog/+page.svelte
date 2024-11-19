@@ -11,6 +11,7 @@
 </script>
 
 <main>
+	<h1>Welcome to My Blog</h1>
 	<section>
 		{#if posts.length}
 			{#each posts as post}
